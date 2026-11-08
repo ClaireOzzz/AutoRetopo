@@ -1,6 +1,6 @@
 # AutoRetopo
 A simple retopology and re-texturing tool that is suited for high poly meshes (photogrametry, AI generated 3D models etc). 
-The output is a duplicate of the selected mesh will a lower polycount and with quad faces, with a new UV map and textures.
+The output is a duplicate of the selected mesh with a optimized, lower polycount and with quad faces, and a new UV map and textures.
 
 
 ![screenshot](https://github.com/ClaireOzzz/ImageURLhost/blob/main/BlenderAddon.png)
@@ -17,4 +17,3 @@ The output is a duplicate of the selected mesh will a lower polycount and with q
 
 - AO map
 - Roughness map 
-- More control
