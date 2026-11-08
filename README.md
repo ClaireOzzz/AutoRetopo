@@ -3,7 +3,7 @@ A simple retopology and re-texturing tool that is suited for high poly meshes (p
 The output is a duplicate of the selected mesh with a optimized, lower polycount and with quad faces, and a new UV map and textures.
 
 
-![screenshot](https://github.com/ClaireOzzz/ImageURLhost/blob/main/BlenderAddon.png)
+![screenshot](teaser.png)
 
 **instructions:**
 
